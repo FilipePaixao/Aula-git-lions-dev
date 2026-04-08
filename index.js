@@ -7,3 +7,5 @@ if (idade >= 18){
 } else {
     console.log("Voce é menor de idade");
 };
+
+console.log("editado no GitHub");
