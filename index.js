@@ -1,13 +1,13 @@
-console.log("Hello Github");
+console.log("Hello Github")
 
 const idade = 18;
 
-if (idade >= 18){
-    console.log("Voce é maior de idade");
+if (idade >= 18) {
+    console.log("Você é maior de idade");
 } else {
-    console.log("Voce é menor de idade");
-};
+    console.log("Você é menor de idade");
+}
 
-console.log("editado no GitHub");
+console.log("editado no github")
 
 console.log("editado na branch new-branch")
